@@ -1,0 +1,19 @@
+{
+  "name": "api_learn_dev",
+  "version": "1.0.0",
+  "description": "API para servir o app_learn_dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdOliveiraJ/api_learn_dev.git"
+  },
+  "author": "Eduardo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdOliveiraJ/api_learn_dev/issues"
+  },
+  "homepage": "https://github.com/EdOliveiraJ/api_learn_dev#readme"
+}
